@@ -6,7 +6,7 @@ Demonstration de l'impacte d'une dépendance temporelle sur une estimation de te
 
 ## Démonstration en ligne
 
-[**Accéder à l'application Shiny**]([REMPLACER_PAR_URL_PUBLIQUE](https://01a1653a-3d22-eb01-cddc-ee9ca5eb3f16.share.connect.posit.cloud))
+[**Accéder à l'application Shiny**]([https://01a1653a-3d22-eb01-cddc-ee9ca5eb3f16.share.connect.posit.cloud)])
 
 Remplacer cette URL par celle fournie par l'hébergeur après publication. Une adresse comme `http://127.0.0.1:7870` fonctionne uniquement sur l'ordinateur qui exécute l'application.
 
